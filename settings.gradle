@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "RouterCovid19Services"
 include ':app'
+include ':routerCovidServices'
